@@ -1,2 +1,2 @@
 # TrashCode
-Dump of random unstructured code
+Collection of random code
