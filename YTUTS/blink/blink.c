@@ -1,6 +1,7 @@
 
 
 /**
+    AUTH: Abiria Placide
  * main.c
  */
 #include <stdint.h>
